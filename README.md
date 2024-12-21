@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Computer Science in Hong Kong PolyU
 - 💞️ I’m looking to collaborate on Ai and scientific companies
 - 📫 How to reach me: kingsoonchu@gmail.com
-- 😄 Pronouns: King
+- 😄 Pronouns: Kingston
 - ⚡ Fun fact: I love dogs more than cats :)
 
 <!---
