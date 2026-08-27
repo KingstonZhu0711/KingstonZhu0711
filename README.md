@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KingstonZhu0711
 - 👀 I’m interested in AI and GPT stuff
-- 🌱 I’m currently learning Computer Science in Hong Kong PolyU
+- 🌱 I’m currently learning Artificial Intelligence in NTU Singapore
 - 💞️ I’m looking to collaborate on Ai and scientific companies
 - 📫 How to reach me: kingsoonchu@gmail.com
 - 😄 Pronouns: Kingston
